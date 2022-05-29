@@ -1,6 +1,6 @@
 {
   "name": "get-random-int",
-    "homepage": "https://yu-ko-ba.github.io/get-random-int",
+  "homepage": "https://yu-ko-ba.github.io/get-random-int",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -46,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "volta": {
+    "node": "16.15.0"
   }
 }
